@@ -1,0 +1,15 @@
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\bin\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.exe
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\bin\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.deps.json
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\bin\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.runtimeconfig.json
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\bin\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.dll
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\bin\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.pdb
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.csproj.AssemblyReference.cache
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.AssemblyInfoInputs.cache
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.AssemblyInfo.cs
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.csproj.CoreCompileInputs.cache
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.dll
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\refint\JalaSoft.DevLevel1.Backend.Practice1.dll
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.pdb
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\JalaSoft.DevLevel1.Backend.Practice1.genruntimeconfig.cache
+C:\Users\HENRY\source\repos\JalaSoft.DevLevel1.Backend.Practice1\JalaSoft.DevLevel1.Backend.Practice1\obj\Debug\net7.0\ref\JalaSoft.DevLevel1.Backend.Practice1.dll
